@@ -6,6 +6,7 @@
 ![jsonwebtokens](https://img.shields.io/badge/jwt-json_web_tokens-073502?style=for-the-badge&logo=jsonwebtokens)
 ![react](https://img.shields.io/badge/react-react-073502?style=for-the-badge&logo=react)
 ![reactrouter](https://img.shields.io/badge/reactrouter-react_router-073502?style=for-the-badge&logo=reactrouter)
+![redux](https://img.shields.io/badge/redux-redux-073502?style=for-the-badge&logo=redux)
 ![nodedotjs](https://img.shields.io/badge/node.js-node.js-073502?style=for-the-badge&logo=nodedotjs)
 ![npm](https://img.shields.io/badge/npm-npm-073502?style=for-the-badge&logo=npm)
 ![webpack](https://img.shields.io/badge/webpack-webpack-073502?style=for-the-badge&logo=webpack)
